@@ -24,7 +24,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
   - {title: Github, icon: github, url: "https://github.com/steffenostendorp"}
-
+  - {title: X, icon: x-twitter, url: "https://x.com/serthrgluphefen"}
+  - {title: LinkedIn, icon: square-linkedin, url: "https://www.linkedin.com/in/steffen-ostendorp-44329aa3/"}
    
 
 comments:
