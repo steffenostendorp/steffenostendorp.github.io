@@ -25,7 +25,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
   - {title: Github, icon: github, url: "https://github.com/steffenostendorp"}
   - {title: X, icon: X, url: "https://x.com/serthrgluphefen"}
-  - {title: LinkedIn, icon: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn], url: "https://www.linkedin.com/in/steffen-ostendorp-44329aa3/"}
+  - {title: LinkedIn, icon: [![Linkedin](https://i.sstatic.net/gVE0j.png), url: "https://www.linkedin.com/in/steffen-ostendorp-44329aa3/"}
    
 
 comments:
